@@ -16,10 +16,17 @@ Proje, araç algılama ve sayımı için Python’un güçlü yeteneklerini ve O
 OpenCV’nin Başlıca Özellikleri:
 
 Gerçek zamanlı görüntü işleme.
+
 Nesne algılama ve takip.
+
 Makine öğrenimi ve derin öğrenme ile entegrasyon.
+
 Projenin Teknik Detayları
+
 Araç Algılama: OpenCV’nin nesne algılama yöntemleri (örneğin, Haar kaskadları, HOG ve YOLO gibi teknikler) kullanılarak araçların tespiti sağlanacaktır.
+
 Araç Sayımı: Algılanan araçlar, hareket yönleri veya belirli bir alandan geçişleri baz alınarak sayılacaktır. Geliştirilen algoritma, hem statik görüntülerde hem de video akışlarında çalışabilir.
+
 Kolay Erişim ve Uygulama: OpenCV, resmi web sitesinden indirilebilir. Projenin gereksinimleri, Python ortamına hızlıca kurulabilir ve kullanıcı dostu bir arayüzle tamamlanabilir.
+
 Bu proje, hem akademik hem de endüstriyel uygulamalar için etkili bir çözüm sunarak, modern görüntü işleme tekniklerinin gücünü gösterecektir.
